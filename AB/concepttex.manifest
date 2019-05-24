@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3811008991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 361594ee892a820de99f53ec2a4b183e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Concept/1.png
+- Assets/Textures/Concept/2.png
+Dependencies: []
