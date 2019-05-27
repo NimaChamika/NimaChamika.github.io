@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 976962648
+CRC: 2289670174
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a335a6532dd3266659ba1040e5f29635
+    Hash: bf8dcb761ccd0e69edad60ccce20eda2
   TypeTreeHash:
     serializedVersion: 2
     Hash: ea5a42e0fd8ea905efa7aa926a3b8944
@@ -14,6 +14,12 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
+- Assets/Textures/Concept/D.png
+- Assets/Textures/Concept/C.png
+- Assets/Textures/Concept/E.png
 - Assets/Textures/Concept/A.png
+- Assets/Textures/Concept/H.png
 - Assets/Textures/Concept/B.png
+- Assets/Textures/Concept/F.png
+- Assets/Textures/Concept/G.png
 Dependencies: []
