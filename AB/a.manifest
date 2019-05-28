@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1114964652
+CRC: 1467084995
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a3c5457c9bba742b612227f04f5a6674
+    Hash: 2b9b27466e9dd7a21f33a6e0e345a68e
   TypeTreeHash:
     serializedVersion: 2
     Hash: ea5a42e0fd8ea905efa7aa926a3b8944
@@ -14,7 +14,39 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
+- Assets/Textures/Collection/A/A14.png
+- Assets/Textures/Collection/A/A19.png
+- Assets/Textures/Collection/A/A20.png
+- Assets/Textures/Collection/A/A7.png
 - Assets/Textures/Collection/A/A1.png
+- Assets/Textures/Collection/A/A25.png
+- Assets/Textures/Collection/A/A34.png
+- Assets/Textures/Collection/A/A32.png
 - Assets/Textures/Collection/A/A2.png
+- Assets/Textures/Collection/A/A24.png
+- Assets/Textures/Collection/A/A27.png
+- Assets/Textures/Collection/A/A22.png
 - Assets/Textures/Collection/A/A3.png
+- Assets/Textures/Collection/A/A21.png
+- Assets/Textures/Collection/A/A4.png
+- Assets/Textures/Collection/A/A18.png
+- Assets/Textures/Collection/A/A12.png
+- Assets/Textures/Collection/A/A30.png
+- Assets/Textures/Collection/A/A6.png
+- Assets/Textures/Collection/A/A9.png
+- Assets/Textures/Collection/A/A35.png
+- Assets/Textures/Collection/A/A29.png
+- Assets/Textures/Collection/A/A28.png
+- Assets/Textures/Collection/A/A26.png
+- Assets/Textures/Collection/A/A17.png
+- Assets/Textures/Collection/A/A16.png
+- Assets/Textures/Collection/A/A11.png
+- Assets/Textures/Collection/A/A15.png
+- Assets/Textures/Collection/A/A31.png
+- Assets/Textures/Collection/A/A33.png
+- Assets/Textures/Collection/A/A13.png
+- Assets/Textures/Collection/A/A8.png
+- Assets/Textures/Collection/A/A10.png
+- Assets/Textures/Collection/A/A5.png
+- Assets/Textures/Collection/A/A23.png
 Dependencies: []
