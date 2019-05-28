@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3672465168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 422077a79ff7325f883e8174b1781c52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Collection/D/D5.png
+- Assets/Textures/Collection/D/D4.png
+- Assets/Textures/Collection/D/D7.png
+- Assets/Textures/Collection/D/D2.png
+- Assets/Textures/Collection/D/D1.png
+- Assets/Textures/Collection/D/D3.png
+- Assets/Textures/Collection/D/D6.png
+Dependencies: []

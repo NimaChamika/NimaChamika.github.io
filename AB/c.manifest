@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3052899547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1fed02a2da20832a89aeda0437433c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Collection/C/C10.png
+- Assets/Textures/Collection/C/C8.png
+- Assets/Textures/Collection/C/C16.png
+- Assets/Textures/Collection/C/C14.png
+- Assets/Textures/Collection/C/C18.png
+- Assets/Textures/Collection/C/C7.png
+- Assets/Textures/Collection/C/C15.png
+- Assets/Textures/Collection/C/C6.png
+- Assets/Textures/Collection/C/C13.png
+- Assets/Textures/Collection/C/C4.png
+- Assets/Textures/Collection/C/C20.png
+- Assets/Textures/Collection/C/C3.png
+- Assets/Textures/Collection/C/C12.png
+- Assets/Textures/Collection/C/C9.png
+- Assets/Textures/Collection/C/C2.png
+- Assets/Textures/Collection/C/C5.png
+- Assets/Textures/Collection/C/C19.png
+- Assets/Textures/Collection/C/C1.png
+- Assets/Textures/Collection/C/C17.png
+- Assets/Textures/Collection/C/C11.png
+Dependencies: []

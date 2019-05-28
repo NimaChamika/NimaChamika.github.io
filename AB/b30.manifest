@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 700674266
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3bb18272aee02ec00ce9fde07a2b76b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Tiles/B30/A.png
+- Assets/Textures/Tiles/B30/B.png
+Dependencies: []

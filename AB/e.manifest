@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3987252027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d172189c2e1a881071a452d89a251063
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Collection/E/E2.png
+- Assets/Textures/Collection/E/E13.png
+- Assets/Textures/Collection/E/E8.png
+- Assets/Textures/Collection/E/E4.png
+- Assets/Textures/Collection/E/E7.png
+- Assets/Textures/Collection/E/E10.png
+- Assets/Textures/Collection/E/E6.png
+- Assets/Textures/Collection/E/E11.png
+- Assets/Textures/Collection/E/E12.png
+- Assets/Textures/Collection/E/E9.png
+- Assets/Textures/Collection/E/E5.png
+- Assets/Textures/Collection/E/E1.png
+- Assets/Textures/Collection/E/E3.png
+Dependencies: []

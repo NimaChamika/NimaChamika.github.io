@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 461742964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 633e8b62b13862fb3df4002c17250878
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Tiles/H3/C.png
+- Assets/Textures/Tiles/H3/J.png
+- Assets/Textures/Tiles/H3/A.png
+- Assets/Textures/Tiles/H3/G.png
+- Assets/Textures/Tiles/H3/E.png
+- Assets/Textures/Tiles/H3/B.png
+- Assets/Textures/Tiles/H3/F.png
+- Assets/Textures/Tiles/H3/H.png
+- Assets/Textures/Tiles/H3/L.png
+- Assets/Textures/Tiles/H3/D.png
+- Assets/Textures/Tiles/H3/I.png
+- Assets/Textures/Tiles/H3/K.png
+Dependencies: []
