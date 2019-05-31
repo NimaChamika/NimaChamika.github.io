@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2319077778
+CRC: 3979326256
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ebe22d2fce0ba7a19c1cb8c4234a6c46
+    Hash: 112f3d62bd0554b79129ea9a856b682c
   TypeTreeHash:
     serializedVersion: 2
     Hash: ea5a42e0fd8ea905efa7aa926a3b8944
@@ -17,7 +17,6 @@ Assets:
 - Assets/Textures/Tiles/B44/F.png
 - Assets/Textures/Tiles/B44/H.png
 - Assets/Textures/Tiles/B44/D.png
-- Assets/Textures/Tiles/B44/I.png
 - Assets/Textures/Tiles/B44/B.png
 - Assets/Textures/Tiles/B44/A.png
 - Assets/Textures/Tiles/B44/C.png
