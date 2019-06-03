@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3881367759
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bda1325a911565f1896d60abb3e71a14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Collection/G/G8.png
+- Assets/Textures/Collection/G/G4.png
+- Assets/Textures/Collection/G/G1.png
+- Assets/Textures/Collection/G/G7.png
+- Assets/Textures/Collection/G/G2.png
+- Assets/Textures/Collection/G/G5.png
+- Assets/Textures/Collection/G/G9.png
+- Assets/Textures/Collection/G/G6.png
+- Assets/Textures/Collection/G/G3.png
+Dependencies: []
