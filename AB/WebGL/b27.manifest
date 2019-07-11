@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2974907447
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06cdc859db37c352b516acd3a8de8c73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Tiles/B27/E.png
+- Assets/Textures/Tiles/B27/CT.jpg
+- Assets/Textures/Tiles/B27/G.png
+- Assets/Textures/Tiles/B27/GT.jpg
+- Assets/Textures/Tiles/B27/JT.jpg
+- Assets/Textures/Tiles/B27/KT.jpg
+- Assets/Textures/Tiles/B27/DT.jpg
+- Assets/Textures/Tiles/B27/MT.jpg
+- Assets/Textures/Tiles/B27/B.png
+- Assets/Textures/Tiles/B27/I.png
+- Assets/Textures/Tiles/B27/J.png
+- Assets/Textures/Tiles/B27/N.png
+- Assets/Textures/Tiles/B27/L.png
+- Assets/Textures/Tiles/B27/OT.jpg
+- Assets/Textures/Tiles/B27/PT.jpg
+- Assets/Textures/Tiles/B27/QT.jpg
+- Assets/Textures/Tiles/B27/AT.jpg
+- Assets/Textures/Tiles/B27/O.png
+- Assets/Textures/Tiles/B27/HT.jpg
+- Assets/Textures/Tiles/B27/Q.png
+- Assets/Textures/Tiles/B27/ET.jpg
+- Assets/Textures/Tiles/B27/BT.jpg
+- Assets/Textures/Tiles/B27/M.png
+- Assets/Textures/Tiles/B27/K.png
+- Assets/Textures/Tiles/B27/NT.jpg
+- Assets/Textures/Tiles/B27/A.png
+- Assets/Textures/Tiles/B27/D.png
+- Assets/Textures/Tiles/B27/LT.jpg
+- Assets/Textures/Tiles/B27/H.png
+- Assets/Textures/Tiles/B27/F.png
+- Assets/Textures/Tiles/B27/P.png
+- Assets/Textures/Tiles/B27/FT.jpg
+- Assets/Textures/Tiles/B27/C.png
+- Assets/Textures/Tiles/B27/IT.jpg
+Dependencies: []
