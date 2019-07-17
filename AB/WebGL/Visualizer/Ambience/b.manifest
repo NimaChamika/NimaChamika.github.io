@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2946570456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 675fd58df18ed2663891c349f450e3cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISprites/Menu/Ambience/b.png
+- Assets/UISprites/Menu/Ambience/a.png
+Dependencies: []
