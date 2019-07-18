@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 335606460
+CRC: 182620697
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d8c86aca64cad45539e3ea5ac94b90e3
+    Hash: 628ae4821c7eca8840bd29979ecf973f
   TypeTreeHash:
     serializedVersion: 2
     Hash: f19fbf085e00d23fbc8d6cf7b345590b
@@ -12,7 +12,7 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 Assets:
-- Assets/UISprites/Menu/Ambience/c.png
-- Assets/UISprites/Menu/Ambience/b.png
-- Assets/UISprites/Menu/Ambience/a.png
+- Assets/UISprites/Menu/Ambience/a3.png
+- Assets/UISprites/Menu/Ambience/a2.png
+- Assets/UISprites/Menu/Ambience/a1.png
 Dependencies: []
