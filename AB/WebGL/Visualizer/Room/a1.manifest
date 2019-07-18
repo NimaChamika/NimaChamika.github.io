@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2165473149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a9ca8b55eb20703baa188992786d6e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b8b0ddecfc474a10030e88a7b4a15a4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 939a64d97588f524b87f6e6e67b91c9c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/BathRoom.prefab
+Dependencies: []
