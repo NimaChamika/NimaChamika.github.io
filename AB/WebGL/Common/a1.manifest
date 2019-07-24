@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3963606163
+CRC: 1444621555
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b7c1c2c0064db12d1d5eca942038929b
+    Hash: 745194a27b034b2cbd64fe4e8bd38df1
   TypeTreeHash:
     serializedVersion: 2
     Hash: f19fbf085e00d23fbc8d6cf7b345590b
@@ -12,6 +12,16 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 Assets:
-- Assets/UISprites/Tiles/A.jpg
-- Assets/UISprites/Tiles/AT.jpg
+- Assets/UISprites/Tiles/2_1.jpg
+- Assets/UISprites/Tiles/5_0.jpg
+- Assets/UISprites/Tiles/3_2.jpg
+- Assets/UISprites/Tiles/4_3.jpg
+- Assets/UISprites/Tiles/2.png
+- Assets/UISprites/Tiles/1_0.jpg
+- Assets/UISprites/Tiles/6_3.jpg
+- Assets/UISprites/Tiles/5.png
+- Assets/UISprites/Tiles/3.png
+- Assets/UISprites/Tiles/4.png
+- Assets/UISprites/Tiles/1.png
+- Assets/UISprites/Tiles/6.png
 Dependencies: []
