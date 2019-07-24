@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1584840533
+CRC: 655703685
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a73d215a3af8d75de83ad8a7fb08fc3e
+    Hash: 3b5c34f598e987fa98d04d7771ec97fb
   TypeTreeHash:
     serializedVersion: 2
     Hash: f19fbf085e00d23fbc8d6cf7b345590b
@@ -14,5 +14,6 @@ ClassTypes:
 Assets:
 - Assets/UISprites/Dummy Data/c1.png
 - Assets/UISprites/Dummy Data/c4.png
+- Assets/UISprites/Dummy Data/c2.png
 - Assets/UISprites/Dummy Data/c3.png
 Dependencies: []
