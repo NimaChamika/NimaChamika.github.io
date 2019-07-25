@@ -1,25 +1,33 @@
 ManifestFileVersion: 0
-CRC: 208244541
+CRC: 2736346728
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c7e63fa8202df17f988279e5161241b2
+    Hash: bca774a0bc262116db1c902c03ca8850
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
 Assets:
-- Assets/Textures/Tiles/B2/A.png
-- Assets/Textures/Tiles/B2/C.png
-- Assets/Textures/Tiles/B2/CT.jpg
-- Assets/Textures/Tiles/B2/AT.jpg
-- Assets/Textures/Tiles/B2/B.png
-- Assets/Textures/Tiles/B2/BT.jpg
-- Assets/Textures/Tiles/B2/D.png
-- Assets/Textures/Tiles/B2/DT.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/3.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/3_3.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/8_8.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/4_4.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/9.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/9_9.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/6_6.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/7_7.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/8.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/2_1.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/2.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/7.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/4.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/5_5.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/5.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/6.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/1_0.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/b2/1.jpg
 Dependencies: []

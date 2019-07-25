@@ -1,23 +1,23 @@
 ManifestFileVersion: 0
-CRC: 926890596
+CRC: 2768980455
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 35bc3bbc8a705b535bcb3e34fea0c576
+    Hash: fe8e94d77046bf9124ece6fdeba672f1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
 Assets:
-- Assets/Textures/Tiles/A3/A.png
-- Assets/Textures/Tiles/A3/C.png
-- Assets/Textures/Tiles/A3/BT.jpg
-- Assets/Textures/Tiles/A3/B.png
-- Assets/Textures/Tiles/A3/AT.jpg
-- Assets/Textures/Tiles/A3/CT.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/a3/3.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/a3/1_2.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/a3/2_5.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/a3/4_8.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/a3/2.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/a3/1.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/a3/4.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/a3/3_6.png
 Dependencies: []

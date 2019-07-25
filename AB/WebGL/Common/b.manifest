@@ -1,68 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2457234264
+CRC: 2030034973
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fdd02c08405c103a49123eab0d54381e
+    Hash: a5b86ea53c01f50a612c48ee78ab54fd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
 Assets:
-- Assets/Textures/Collection/B/B26.png
-- Assets/Textures/Collection/B/B33.png
-- Assets/Textures/Collection/B/B3.png
-- Assets/Textures/Collection/B/B12.png
-- Assets/Textures/Collection/B/B41.png
-- Assets/Textures/Collection/B/B29.png
-- Assets/Textures/Collection/B/B43.png
-- Assets/Textures/Collection/B/B7.png
-- Assets/Textures/Collection/B/B30.png
-- Assets/Textures/Collection/B/B8.png
-- Assets/Textures/Collection/B/B23.png
-- Assets/Textures/Collection/B/B4.png
-- Assets/Textures/Collection/B/B44.png
-- Assets/Textures/Collection/B/B40.png
-- Assets/Textures/Collection/B/B11.png
-- Assets/Textures/Collection/B/B25.png
-- Assets/Textures/Collection/B/B36.png
-- Assets/Textures/Collection/B/B18.png
-- Assets/Textures/Collection/B/B31.png
-- Assets/Textures/Collection/B/B6.png
-- Assets/Textures/Collection/B/B19.png
-- Assets/Textures/Collection/B/B16.png
-- Assets/Textures/Collection/B/B21.png
-- Assets/Textures/Collection/B/B28.png
-- Assets/Textures/Collection/B/B9.png
-- Assets/Textures/Collection/B/B49.png
-- Assets/Textures/Collection/B/B14.png
-- Assets/Textures/Collection/B/B38.png
-- Assets/Textures/Collection/B/B48.png
-- Assets/Textures/Collection/B/B15.png
-- Assets/Textures/Collection/B/B39.png
-- Assets/Textures/Collection/B/B27.png
-- Assets/Textures/Collection/B/B34.png
-- Assets/Textures/Collection/B/B22.png
-- Assets/Textures/Collection/B/B42.png
-- Assets/Textures/Collection/B/B32.png
-- Assets/Textures/Collection/B/B1.png
-- Assets/Textures/Collection/B/B10.png
-- Assets/Textures/Collection/B/B47.png
-- Assets/Textures/Collection/B/B5.png
-- Assets/Textures/Collection/B/B20.png
-- Assets/Textures/Collection/B/B46.png
-- Assets/Textures/Collection/B/B35.png
-- Assets/Textures/Collection/B/B17.png
-- Assets/Textures/Collection/B/B2.png
-- Assets/Textures/Collection/B/B50.png
-- Assets/Textures/Collection/B/B45.png
-- Assets/Textures/Collection/B/B24.png
-- Assets/Textures/Collection/B/B13.png
-- Assets/Textures/Collection/B/B37.png
-- Assets/Textures/Collection/B/B51.png
+- Assets/UISprites/Dummy Data/Tiles/B1.png
+- Assets/UISprites/Dummy Data/Tiles/B2.png
 Dependencies: []
