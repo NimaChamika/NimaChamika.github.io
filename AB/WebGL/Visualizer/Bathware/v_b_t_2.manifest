@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 74634712
+CRC: 731514383
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cd7b464bec2d5aaf3ab7aed5035ba96d
+    Hash: 5dab96a2c30e55cb4e3321b004adf343
   TypeTreeHash:
     serializedVersion: 2
     Hash: f19fbf085e00d23fbc8d6cf7b345590b
@@ -13,7 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/UISprites/Dummy Data/Bathware/Types/3/1_3.png
-- Assets/UISprites/Dummy Data/Bathware/Types/3/2.png
-- Assets/UISprites/Dummy Data/Bathware/Types/3/1.png
 - Assets/UISprites/Dummy Data/Bathware/Types/3/2_3.png
 Dependencies: []
