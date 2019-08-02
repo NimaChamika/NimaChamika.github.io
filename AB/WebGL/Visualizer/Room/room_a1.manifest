@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 942428109
+CRC: 718961282
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dd48e1377a20da336bc1562d773b1001
+    Hash: 35b960fa830e3f40be7362dbcccdcded
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5b8b0ddecfc474a10030e88a7b4a15a4
+    Hash: d7e53dec977dd2eb13b0f8cfcefef132
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,6 +34,5 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/Textures/Room01/UnlitTintShader.shader
 - Assets/BathRoom.prefab
 Dependencies: []
