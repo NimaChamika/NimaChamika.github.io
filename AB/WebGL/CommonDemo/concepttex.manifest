@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3354929828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09bb951e840a813798501ff01b7e831e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISprites/Dummy Data/Tiles/Demo/A.png
+- Assets/UISprites/Dummy Data/Tiles/Demo/B.png
+Dependencies: []

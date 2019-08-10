@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4046369741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c63f196f6dba175ca7c60b94b2d2e614
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISprites/Dummy Data/Tiles/tiles/a2/3_7_2.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/a2/3.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/a2/4_9_4.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/a2/1_0_0.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/a2/2.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/a2/2_4_4.png
+- Assets/UISprites/Dummy Data/Tiles/tiles/a2/1.jpg
+- Assets/UISprites/Dummy Data/Tiles/tiles/a2/4.jpg
+Dependencies: []
