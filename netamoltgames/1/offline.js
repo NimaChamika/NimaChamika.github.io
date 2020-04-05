@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1522836535,
+	"version": 1489747927,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,8 +46,6 @@
 		"images/gradiant-sheet0.png",
 		"images/continue-sheet0.png",
 		"images/text_-sheet0.png",
-		"images/imibtn-sheet0.png",
-		"images/powered-sheet0.png",
 		"media/buttonsound.m4a",
 		"media/buttonsound.ogg",
 		"media/coundown.m4a",
