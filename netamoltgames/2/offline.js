@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1489749470,
+	"version": 1522835089,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -66,6 +66,8 @@
 		"images/banner-sheet0.png",
 		"images/newsky-sheet0.png",
 		"images/homeweb-sheet0.png",
+		"images/imibtn-sheet0.png",
+		"images/powered-sheet0.png",
 		"media/running_edited3.m4a",
 		"media/running_edited3.ogg",
 		"media/jump.m4a",
