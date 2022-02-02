@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "./static/js/main.bca93383.js",
-    "index.html": "./index.html",
-    "main.bca93383.js.map": "./static/js/main.bca93383.js.map"
+    "main.js": "/Dialog%20Page/static/js/main.bca93383.js",
+    "index.html": "/Dialog%20Page/index.html",
+    "main.bca93383.js.map": "/Dialog%20Page/static/js/main.bca93383.js.map"
   },
   "entrypoints": [
     "static/js/main.bca93383.js"
